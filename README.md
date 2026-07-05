@@ -20,31 +20,41 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Audit Support & Evidence Documentation (OIG/GAO audit readiness)
 | Cross-Functional Collaboration (ISSOs, ISSMs, system owners, ServiceNow team)
 | Security Controls Evaluation & Interviewing (Controls Owners)
-| Data Protection & Regulatory Compliance Assessment (ISO 27001, SOC 2 Type II, NIST 800-53)
+| Data Protection & Regulatory Compliance/Risk Assessment (ISO 27001, SOC 2 Type II, NIST 800-53)
+| POA&M Managment
+| Continuous Monitoring
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+### Security & Compliance
+NIST 800-53 | RMF | FISMA | FedRAMP | ISO 27001 | SOC 2 | HIPAA/HITRUST
+
+### Systems & Communication
+| Slack
+| Zoom
+| Cisco Webex
 
 ### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+| Symantec Management Console
+| Palo Alto GlobalProtect VPN
+| Pulse Secure VPN
 
 ### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+| Nessus
+| ServiceNow
+| JCAM
+| Azure Intune
+| VMware
+| Power BI
+| SharePoint
+| Okta
+| Active Directory
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+### SIEM Tool
+| Crowdstrike
+| Microsoft 365/Sentinal
+| Splunk
+
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
