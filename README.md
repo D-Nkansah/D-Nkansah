@@ -52,6 +52,7 @@ NIST 800-53 | RMF | FISMA | FedRAMP | ISO 27001 | SOC 2 | HIPAA/HITRUST
 | Active Directory
 | AWS
 | Vanta
+| eMass
 
 ### SIEM Tool
 | Crowdstrike
