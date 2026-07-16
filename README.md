@@ -81,5 +81,25 @@ NIST 800-53 | RMF | FISMA | FedRAMP | ISO 27001 | SOC 2 | HIPAA/HITRUST
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+### NIST cybersecurity framework to respond to a security incident
+  * The company experienced a Denial-of-Service (DoS) attack that shut down its internal network for 2 hours. An attacker flooded the network with ICMP (ping) packets through an unconfigured firewall, causing network services to stop working.
+
+The incident team blocked ICMP traffic, shut down non-essential services, and restored critical systems. After investigating, the security team improved protection by:
+
+Limiting incoming ICMP traffic
+Verifying source IP addresses
+Adding network monitoring
+Installing an IDS/IPS to detect and block suspicious traffic
+
+Using the NIST Cybersecurity Framework (CSF), the company will improve security by:
+
+* Identify: Find security risks through regular audits.
+* Protect: Strengthen security with policies, tools, and training.
+* Detect: Improve monitoring to spot attacks quickly.
+* Respond: Contain attacks and improve response procedures.
+* Recover: Restore systems and resume normal operations after an incident
+##  [Incident report analysis.docx](https://github.com/user-attachments/files/30098632/Incident.report.analysis.docx)
+## [Applying the NIST CSF.docx](https://github.com/user-attachments/files/30098708/Applying.the.NIST.CSF.docx)
+
+
+### SOC Project .....
